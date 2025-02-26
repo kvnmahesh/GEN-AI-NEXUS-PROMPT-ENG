@@ -6,7 +6,7 @@
 
 1-liner Description: Developing an automated Requirement Analysis process for the study companion bot, GEN AI NEXUS, using advanced Prompt Engineering techniques.
 
-* Authors: [kunapaneni venkata naga mahesh](http://www.YOURPAGE.xxx), [Rajeev pondala](http://www.YOURPAGE.xxx)[Sindhuja Lakkapally](http://www.YOURPAGE.xxx)
+* Authors: [kunapaneni venkata naga mahesh](http://www.YOURPAGE.xxx), [Rajeev pondala](http://www.YOURPAGE.xxx), [Sindhuja Lakkapally](http://www.YOURPAGE.xxx)
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
 
   
